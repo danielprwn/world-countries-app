@@ -1,6 +1,7 @@
 # World Countries Search Web App.
 
 ✔ Ability to searching and filtering world countries.
+✔ Light and dark mode switch.
 
 ## Technologies
 ✅ HTML ✅ CSS ⚛ React JS ✅ Firebase
